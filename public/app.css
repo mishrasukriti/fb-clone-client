@@ -1,0 +1,49 @@
+body{
+    background-color: #F0F2F5;
+}
+.header-div{
+    box-shadow: 0px 1px 3px 0px #ccc;
+    background-color: white!important;
+    padding: 0px 2%;
+}
+.create-post-div{
+    margin-top:25px;
+}
+.header-div .nav-link {
+    padding:18px 11px;
+}
+.logoimg{
+    max-width: 45px;
+    margin-top: 7px;
+}
+.create-post{
+    background-color: white;
+    border-radius: 20px;
+    padding:30px;
+    margin-top:25px
+}
+.create-post-plus{
+    display: inline-block;
+    padding: 3px 19px;
+    border-radius: 52%;
+    font-size: 35px;
+    background-color: #E7F3FF;
+    color: #056FE7;
+}
+.create-post-plus:hover{
+    text-decoration: none;
+}
+.say{color:grey}
+.posts-div{
+    background: white;
+    margin-top: 42px;
+    border-radius: 25px;
+    padding: 0px;
+}
+.like{
+    padding: 8px;
+    border-radius: 50%;
+    color: white;
+    font-size: 17px;
+    background: #026EE2;
+}
